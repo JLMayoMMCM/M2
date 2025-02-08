@@ -33,7 +33,7 @@ body {
 }
 
 .quoteDisplay {
-    font-size: 1.5em;
+    font-size: 1em;
     text-align: center;
     margin: 10px;
 }
@@ -41,7 +41,7 @@ body {
 p {
     color: #fff;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin: 20px;
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
